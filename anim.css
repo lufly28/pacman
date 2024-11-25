@@ -1,0 +1,27 @@
+* {
+    box-sizing: "border-box";
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: black;
+  }
+
+  canvas {
+    margin-top: 30px;
+  }
+
+
+  .controls-container {
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+  }
+
+  button {
+    padding: 20px 40px;
+    background-color: rgb(32, 96, 13);
+    color: black;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+
